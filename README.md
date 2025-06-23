@@ -6,8 +6,8 @@ A fun and interactive web project using **HTML**, **CSS**, and **JavaScript** th
 
 ## 📸 Preview
 
-![Color Changer Preview](Preview/01.png)
-![Color Changer Preview](Preview/02.png)
+![Color Changer Preview](01.png)
+![Color Changer Preview](02.png)
 
 
 
